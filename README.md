@@ -37,7 +37,7 @@ com.bioskop.view
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/zzkydev/sistem-pemesanan-tiket-bioskop.git
+https://github.com/zzkydev/Pemesanan-Tiket-Bioskop---JAVA.git
 cd sistem-pemesanan-tiket-bioskop
 ```
 

@@ -38,7 +38,7 @@ com.bioskop.view
 
 ```bash
 https://github.com/zzkydev/Pemesanan-Tiket-Bioskop---JAVA.git
-cd sistem-pemesanan-tiket-bioskop
+cd Pemesanan-Tiket-Bioskop---JAVA
 ```
 
 ### 2. Kompilasi Program
